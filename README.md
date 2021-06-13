@@ -1,1 +1,2 @@
-# C37-Project
+# Infinite Runner Game
+Padmapriya LD
